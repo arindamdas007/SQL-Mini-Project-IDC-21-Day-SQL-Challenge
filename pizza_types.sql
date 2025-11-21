@@ -1,0 +1,1 @@
+SELECT * FROM idc_pizza.pizza_types;
